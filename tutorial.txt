@@ -4,3 +4,4 @@
 1.gti remote add name  name是远端仓库的名字  链接远端仓库
 3.gti remote add 任意名字1 github仓库地址
 4.git push 任意名字1 分支1  添加到分支1
+基本上就是这些了
