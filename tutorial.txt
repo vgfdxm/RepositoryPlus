@@ -9,7 +9,7 @@ git pull origin master
 
 git add *
 git commit -m "new file"
-git remote add origin https://github.com/vgfdxm/RepositoryPlus.git
+git remote add origin https://github.com/vgfdxm/RepositoryPlus.git  //可以没有
 git push origin master
 
 
